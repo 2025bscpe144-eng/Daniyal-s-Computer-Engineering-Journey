@@ -81,8 +81,6 @@ This blog documents:
 
 ## Connect With Me
 
-## Connect With Me
-
 GitHub: [Visit My GitHub Profile](https://github.com/2025bscpe144-eng)
 
 LinkedIn: [Visit My LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
