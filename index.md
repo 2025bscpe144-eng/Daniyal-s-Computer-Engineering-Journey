@@ -1,17 +1,7 @@
 ---
 layout: page
-title: About Me
+title: Home
 ---
-
-# Daniyal Nawaz
-
-### Computer Engineering Student | UET Lahore, Faisalabad Campus
-
-Welcome to my personal blog and digital portfolio. Here, I document my learning journey, coding projects, university experiences, and technical knowledge as I grow as a Computer Engineer.
-
----
-
-## About Me
 
 I am Daniyal Nawaz, a Computer Engineering student from Faisalabad, Pakistan. I am passionate about programming, problem-solving, software development, and emerging technologies.
 
@@ -57,7 +47,6 @@ a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mento
 - CSS
 
 ### Tools & Technologies
-- Git
 - GitHub
 - Visual Studio
 - VS Code
