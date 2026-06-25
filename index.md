@@ -1,21 +1,26 @@
 ---
 layout: page
 title: Home
+permalink: /
 ---
 
-I am Daniyal Nawaz, a Computer Engineering student from Faisalabad, Pakistan. I am passionate about programming, problem-solving, software development, and emerging technologies.
+# Daniyal Nawaz
 
-My goal is to continuously improve my technical skills while building meaningful projects and sharing my learning experiences with others.
+### Computer Engineering Student | UET Lahore, Faisalabad Campus
+
+Welcome to my personal blog and digital portfolio. Here, I document my learning journey, coding projects, university experiences, and technical knowledge as I grow as a Computer Engineer.
 
 ---
 
-## Current Goals:
+## About Me
 
-My current goal is to maintain a strong GPA while strengthening my knowledge of Programming Fundamentals, Database Systems, and Software Development.
+I am Daniyal Nawaz, a Computer Engineering student from Faisalabad, Pakistan. I am passionate about programming, technology, and building my digital footprint as a student.
 
-I am fortunate to learn under the guidance of
-[Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/),
-a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mentorship continue to support my academic growth.
+---
+
+## My Current Goals
+
+My current goal is to maintain a strong GPA while learning Programming Fundamentals and Database Systems under the guidance of [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/), a professor at UET Lahore, Faisalabad Campus.
 
 - Maintain and improve my GPA
 - Strengthen Programming Fundamentals
@@ -26,64 +31,20 @@ a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mento
 
 ---
 
-## Academic Information:
+## Academic Information
 
-| Detail | Information |
-|----------|------------|
-| Degree | BS Computer Engineering |
-| University | UET Lahore, Faisalabad Campus |
-| Current Semester | 2nd Semester |
-| Current GPA | 3.08 |
+- **Current GPA:** 3.08
+- **Semester:** 2nd Semester, BS Computer Engineering
+- **University:** UET Lahore, Faisalabad Campus
 
 ---
 
-## Technical Skills:
+## Activities & Interests
 
-### Programming Languages
-- Python
-- C#
-- SQL
-- HTML
-- CSS
-
-### Tools & Technologies:
-- GitHub
-- Visual Studio
-- VS Code
-- MySQL Workbench
-
----
-
-## Activities & Interests:
-
-- Coding Practice
-- Software Development
-- Reading Technology Articles
-- Cricket
-- Daily Exercise
-- Learning New Technologies
-
----
-
-## Learning Journey:
-
-This blog documents:
-
-- Programming Fundamentals
-- Object-Oriented Programming
-- Database Management Systems
-- Data Structures & Algorithms
-- Digital Logic Design
-- University Projects
-- Personal Coding Projects
-
----
-
-## Connect With Me
-
-GitHub: [Visit My GitHub Profile](https://github.com/2025bscpe144-eng)
-
-LinkedIn: [Visit My LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+- Daily jogging / exercise
+- Coding practice
+- Playing Cricket
+- Reading Newspaper
 
 ---
 
