@@ -5,8 +5,9 @@ permalink: /contact/
 ---
 
 I would love to hear from fellow students or anyone who found something useful on this blog.
+You can feel free to connect with me through following platforms.
 
-- 📧 **Email:** your-email@gmail.com
+- 📧 **Email:** 2025bscpe144@gmail.com
 - 🐙 **GitHub:** [2025bscpe144-eng](https://github.com/2025bscpe144-eng)
 
 You can also follow my professor **Dr. Bilal Ahmad**, who inspired this blog:
