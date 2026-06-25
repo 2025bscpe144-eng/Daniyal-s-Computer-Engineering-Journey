@@ -4,17 +4,15 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact Me
-
 Feel free to connect with me through the following platforms.
 
 ## Connect With Me
 
-📧 **Email:** [2025bscpe144@gmail.com](mailto:2025bscpe144@gmail.com)
+**Email:** [2025bscpe144@gmail.com](mailto:2025bscpe144@gmail.com)
 
-🔗 **GitHub:** [Visit My GitHub Profile](https://github.com/2025bscpe144-eng)
+**GitHub:** [Visit My GitHub Profile](https://github.com/2025bscpe144-eng)
 
-💼 **LinkedIn:** [Visit My LinkedIn Profile](https://www.linkedin.com/in/daniyal-nawaz-8a5b80410/)
+**LinkedIn:** [Visit My LinkedIn Profile](https://www.linkedin.com/in/daniyal-nawaz-8a5b80410/)
 
 ---
 
