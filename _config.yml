@@ -3,13 +3,17 @@ email: your-email@gmail.com
 description: >-
   Two semesters of learning, building, and growing as a Computer Engineering
   student at UET Lahore, Faisalabad Campus — guided by Dr. Bilal Ahmad.
-baseurl: ""
+baseurl: "/Daniyal-s-Computer-Engineering-Journey"
 url: "https://2025bscpe144-eng.github.io"
 
-author:
-  name: Daniyal
+author: Daniyal
 
 theme: minima
+
+header_pages:
+  - about.md
+  - acknowledgements.md
+  - contact.md
 
 plugins:
   - jekyll-feed
