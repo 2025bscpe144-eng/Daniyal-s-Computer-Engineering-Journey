@@ -18,5 +18,7 @@ AI, ML, and DL model training. You can follow his research on
 - Digital Logic Design
 - OOP
 
-**Connect with me:**
-**GitHub:** [Visit My GitHub Profile](https://github.com/2025bscpe144-eng)
+## Connect With Me
+
+- GitHub: [2025bscpe144-eng](https://github.com/2025bscpe144-eng)
+
