@@ -4,21 +4,30 @@ title: About Me
 permalink: /about/
 ---
 
-I am Daniyal, a BS Computer Engineering student at UET Lahore, 
-Faisalabad Campus. This blog documents my semester experiences, 
-lessons learned, and growth as a student.
+I am Daniyal, a BS Computer Engineering student at UET Lahore, Faisalabad Campus.This blog documents my semester experiences, lessons learned, projects, and growth as a Computer Engineering student.
 
-I am currently being guided by **Dr. Bilal Ahmad**, an expert in 
-AI, ML, and DL model training. You can follow his research on 
-[Google Scholar](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en).
+## Academic Journey
 
-**Courses this semester:**
+I am currently being guided by **Dr. Bilal Ahmad**, an expert in AI, Machine Learning, and Deep Learning model training.
+
+You can follow his research on [Google Scholar](https://scholar.google.com/).
+
+## Courses This Semester
+
 - Programming Fundamentals
 - Database Systems
 - Digital Logic Design
-- OOP
+- Object-Oriented Programming (OOP)
 
-## Connect With Me
+## Interests
 
-- GitHub: [2025bscpe144-eng](https://github.com/2025bscpe144-eng)
+- Programming
+- Software Development
+- Problem Solving
+- Technology Research
+- Cricket
+- Fitness
 
+---
+
+> Learning never stops. Every semester is a new opportunity to grow.
