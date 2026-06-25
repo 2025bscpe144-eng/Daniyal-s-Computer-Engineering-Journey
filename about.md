@@ -19,4 +19,4 @@ AI, ML, and DL model training. You can follow his research on
 - OOP
 
 **Connect with me:**
-- GitHub: [https://github.com/2025bscpe144-eng]
+- GitHub: [Visit My GitHub Profile](https://github.com/2025bscpe144-eng)
