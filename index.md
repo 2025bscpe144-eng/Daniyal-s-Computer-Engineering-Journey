@@ -9,7 +9,7 @@ My goal is to continuously improve my technical skills while building meaningful
 
 ---
 
-## Current Goals
+## Current Goals:
 
 My current goal is to maintain a strong GPA while strengthening my knowledge of Programming Fundamentals, Database Systems, and Software Development.
 
@@ -26,7 +26,7 @@ a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mento
 
 ---
 
-## Academic Information
+## Academic Information:
 
 | Detail | Information |
 |----------|------------|
@@ -37,7 +37,7 @@ a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mento
 
 ---
 
-## Technical Skills
+## Technical Skills:
 
 ### Programming Languages
 - Python
@@ -46,7 +46,7 @@ a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mento
 - HTML
 - CSS
 
-### Tools & Technologies
+### Tools & Technologies:
 - GitHub
 - Visual Studio
 - VS Code
@@ -54,7 +54,7 @@ a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mento
 
 ---
 
-## Activities & Interests
+## Activities & Interests:
 
 - Coding Practice
 - Software Development
@@ -65,7 +65,7 @@ a respected professor at UET Lahore, Faisalabad Campus, whose teaching and mento
 
 ---
 
-## Learning Journey
+## Learning Journey:
 
 This blog documents:
 
@@ -81,8 +81,11 @@ This blog documents:
 
 ## Connect With Me
 
-- GitHub: https://github.com/2025bscpe144-eng
-- LinkedIn: https://www.linkedin.com/in/daniyal-nawaz-8a5b80410/
+## Connect With Me
+
+GitHub: [Visit My GitHub Profile](https://github.com/2025bscpe144-eng)
+
+LinkedIn: [Visit My LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
 
 ---
 
