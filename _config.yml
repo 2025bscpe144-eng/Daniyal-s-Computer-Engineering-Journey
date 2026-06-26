@@ -1,4 +1,4 @@
-title: Daniyal's Computer Engineering Journey
+title: Daniyal Nawaz | Computer Engineer
 email: 2025bscpe144@gmail.com
 description: >-
   Two semesters of learning, building, and growing as a Computer Engineering
@@ -15,6 +15,7 @@ show_excerpts: true
 header_pages:
   - about.md
   - posts.md
+  - acknowledgements.md
   - contact.md
 
 plugins:
